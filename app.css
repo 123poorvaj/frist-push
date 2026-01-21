@@ -1,0 +1,176 @@
+* {
+    padding: 0px;
+    margin: 0PX;
+}
+
+#nav-logo {
+    color: rgb(241, 123, 112);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#nav-items1 {
+    color: #333d42;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items2 {
+    color: #0d0e0e;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items3 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items4 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items5 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items1:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items2:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items3:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items4:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items5:hover {
+    cursor: pointer;
+    color: rgb(236, 124, 113);
+    font-size: 25px;
+}
+
+#search-box {
+    border-radius: 5px;
+    text-align: center;
+    border: solid;
+    border-color: antiquewhite;
+    width: 136px;
+}
+
+.rside-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.whatche-section-bg-container {
+    background-color: #f8f4f4;
+    background-size: cover;
+    font-family: "roboto";
+    margin-top: 10px;
+}
+
+.product-card-container:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+}
+
+.product-image {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.product-carad-subheading {
+    color: #B3B1B1;
+    padding: 2px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.product-name {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "conva";
+}
+
+.product-card-container {
+    border: solid;
+    border-radius: 15px;
+    border-width: 0px;
+}
+
+.rupess {
+    font-size: 25px;
+}
+
+.product-order-button {
+    padding: 10px;
+    height: 45px;
+    border-width: 0px;
+    border-color: rgb(234, 198, 152);
+    text-align: left;
+    background-color: rgb(241, 123, 112);
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+.footer-bg-container {
+    background-color: rgb(242, 212, 174);
+    background-size: COVER;
+    font-family: "ROBOTO";
+}
+
+.footer-sectin-heaind {
+    color: rgb(243, 95, 81);
+    font-weight: bold;
+    font-size: 20PX;
+}
+
+.footer-section-small-discription {
+    color: rgb(133, 131, 131);
+    font-size: 15px;
+}
+
+.footer-section-quick-link-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section-unorder-list-container {
+    list-style-type: none;
+    font-size: 15px;
+    color: rgb(133, 131, 131);
+}
+
+.footer-section-customer-servis-list-container {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section-customer-section-list-container {
+    list-style-type: none;
+    font-size: 15px;
+    color: rgb(133, 131, 131);
+}
