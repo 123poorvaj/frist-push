@@ -1,0 +1,156 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#nav-logo {
+    color: rgb(241, 123, 112);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#nav-items1 {
+    color: #333d42;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items2 {
+    color: #0d0e0e;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items3 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items4 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items5 {
+    color: #0b0404;
+    font-size: 22px;
+    margin: 5px;
+}
+
+#nav-items1:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items2:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items3:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items4:hover {
+    cursor: pointer;
+    color: rgb(241, 123, 112);
+    font-size: 25px;
+}
+
+#nav-items5:hover {
+    cursor: pointer;
+    color: rgb(236, 124, 113);
+    font-size: 25px;
+}
+
+#search-box {
+    border-radius: 5px;
+    text-align: center;
+    border: solid;
+    border-color: antiquewhite;
+    width: 136px;
+}
+
+.bg-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffffff;
+    font-family: "roboto";
+}
+
+.my-section {
+    background-color: black;
+    background-size: cover;
+    color: aliceblue;
+}
+
+form {
+    background-color: rgb(224, 179, 179);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+textarea {
+    border: solid black 2px;
+    height: 25vh;
+}
+
+input {
+    padding: 10px;
+    border: solid black 2px;
+}
+
+.footer-bg-container {
+    background-color: rgb(242, 212, 174);
+    background-size: COVER;
+    font-family: "ROBOTO";
+}
+
+.footer-sectin-heaind {
+    color: rgb(243, 95, 81);
+    font-weight: bold;
+    font-size: 20PX;
+}
+
+.footer-section-small-discription {
+    color: rgb(133, 131, 131);
+    font-size: 15px;
+}
+
+.footer-section-quick-link-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section-unorder-list-container {
+    list-style-type: none;
+    font-size: 15px;
+    color: rgb(133, 131, 131);
+}
+
+.footer-section-customer-servis-list-container {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section-customer-section-list-container {
+    list-style-type: none;
+    font-size: 15px;
+    color: rgb(133, 131, 131);
+}
+
+.footer-stay-connect-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stay-connect-paragraph {
+    color: rgb(133, 131, 131);
+    font-size: 15px;
+}
